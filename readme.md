@@ -10,7 +10,7 @@
 
 Playground 是一个完整的浏览器端 GraphQL IDE, 包括 Documentation , Schema 和一个可以编写和测试GraphGL请求的编辑器。
 
-![GraphQL playground](img/graphQL-playground.png "Playground")
+![GraphQL playground](img/graphql-playgroundpng "Playground")
 
 对于使用 GraphQL 的开发团队, Playground 基本可以代替如 Swagger 之类的的 api 文档和如 Postman 之类的的请求模拟工具。是一个较完备的开发手册，并且有点是0成本使用, 并且有团队在维护和迭代。 GraphQL 社区绝大多数对于GraphQL Server的实现都会内置 Playground。
 
