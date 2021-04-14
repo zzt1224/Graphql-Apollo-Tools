@@ -49,7 +49,7 @@ VScode Plugin [GraphQL](https://marketplace.visualstudio.com/items?itemName=Grap
 
 ## GraphQL Eslint
 
-![GraphQL-Eslint](img/Eslint.gif "GraphQL Eslint")
+![GraphQL-Eslint](img/eslint.gif "GraphQL Eslint")
 
 [GraphQL Eslint](https://github.com/dotansimha/GraphQL-Eslint) 最基础的前端代码检查就是Eslint，我们有了统一的 Schema 之后, 就可以通过 Schema 生成的对应的规则来对 query 进行 类似Playground 中 Syntax 检查. 
 
